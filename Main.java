@@ -36,5 +36,6 @@ public class Main {
         }
 
         scan.close();  // Close the scanner to avoid resource leakse
+        
     }
 }
