@@ -35,6 +35,6 @@ public class Main {
             System.out.println("You guessed the number in " + guessCount + " tries. Keep practicing!");
         }
 
-        scan.close();  // Close the scanner to avoid resource leaks
+        scan.close();  // Close the scanner to avoid resource leakse
     }
 }
